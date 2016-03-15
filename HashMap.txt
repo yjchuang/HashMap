@@ -1,0 +1,6 @@
+50 fifty
+20 twenty
+10 ten
+40 forty
+60 sixty
+30 thirty
